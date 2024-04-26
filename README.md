@@ -31,7 +31,7 @@ The following Python libraries are required:
 - Matplotlib
 
 ## Reference
-[1] NR; NR and NG-RAN Overall description; Stage-2, document TS 38.300, V16.10.0, 3GPP.
-[2] NR; Medium Access Control (MAC) protocol specification, document TS 38.321, V16.10.0, 3GPP.
-[3] NR; Radio Resource Control (RRC); Protocol specification, document TS 38.331, V16.10.0, 3GPP.
-[4] NR; Physical channels and modulation, document TS 38.211, V16.10.0, 3GPP.
+- [1] NR; NR and NG-RAN Overall description; Stage-2, document TS 38.300, V16.10.0, 3GPP.
+- [2] NR; Medium Access Control (MAC) protocol specification, document TS 38.321, V16.10.0, 3GPP.
+- [3] NR; Radio Resource Control (RRC); Protocol specification, document TS 38.331, V16.10.0, 3GPP.
+- [4] NR; Physical channels and modulation, document TS 38.211, V16.10.0, 3GPP.
