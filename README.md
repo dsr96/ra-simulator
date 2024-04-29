@@ -4,6 +4,9 @@ This simulator has been implemented on Python and enables the evaluation of the 
 
 The implementation is based on the 3GPP standard reference [1-4].
 
+## Contributor
+Developed by David Segura Ramos (PhD student in the field of cellular communication at University of Málaga, Spain)
+
 ## Features
 - Contention-based random-access channel evaluation for LTE/5G
 - Results are exported in csv format to allow post-processing
@@ -29,6 +32,10 @@ The following Python libraries are required:
 - Pandas
 - Numpy
 - Matplotlib
+
+## How to cite this project
+If you use this simulator, please cite the following reference:
+- Segura, D., Khatib, E. J., Barco, R. Evaluation of Mobile Network Slicing in a Logistics Distribution Center. arXiv preprint arXiv:2212.12482
 
 ## Reference
 - [1] NR; NR and NG-RAN Overall description; Stage-2, document TS 38.300, V16.10.0, 3GPP.
